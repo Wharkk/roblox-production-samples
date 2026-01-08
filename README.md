@@ -1,7 +1,7 @@
 # Roblox production samples
 A github repository to demonstrate my coding knowledge. Explore other branches to see more of my work!
 
-This branch shows the framework I made using the Module Framework for the studio called "AusVerse".
+This branch shows the scripts I used in the EasyML plugin I created. For more info check out: https://devforum.roblox.com/t/easyml-an-easy-way-to-use-machine-learning-in-your-roblox-games/3110013
 
 ---
 
